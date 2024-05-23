@@ -1,0 +1,63 @@
+.slider {
+  width: 70%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 3rem;
+  margin-left: 2.7rem;
+}
+.image {
+  width: 50%;
+  height: 200px;
+  border-radius: 2rem;
+  margin: 1rem;
+}
+.left {
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  font-size: 3rem;
+  color: red;
+  z-index: 11;
+  cursor: pointer;
+  user-select: none;
+}
+.right {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  font-size: 3rem;
+  color: red;
+  z-index: 10;
+  cursor: pointer;
+  user-select: none;
+}
+.container {
+  padding-bottom: 3rem;
+  background-color: black;
+  color: white;
+  text-align: center;
+  border-radius: 2rem;
+  position: relative;
+  height: 300px;
+  width: 600px;
+}
+.link {
+  position: absolute;
+  bottom: 1rem;
+  left: 1rem;
+  padding: 12px;
+  background-color: orange;
+  border-radius: 10px;
+}
+.link a {
+  color: black;
+  padding: 10px;
+}
+.link a {
+  color: red;
+}
+.title {
+  margin: 10px;
+}

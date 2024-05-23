@@ -9,27 +9,43 @@
   border-radius: 10px;
   transition: all 0.5s;
   position: relative;
+  border-radius: 0.25rem;
+  box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
 }
+
 .card:hover {
-  transform: scale(1.08);
+  transform: scale(1.02);
 }
+
 .card img {
   width: 100%;
   height: 30%;
 }
+
 .cardDetail {
   padding: 10px;
+  overflow-y: auto; /* Add overflow-y to enable vertical scrolling */
+
+  height: calc(
+    100% - 30%
+  ); /* Occupy remaining height after accounting for image height */
+  background-color: transparent;
 }
+/* .contents {
+  height: 600px;
+} */
 .cardDetail h3 {
   color: red;
 }
-p {
+
+.cardDetail p {
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
-.a {
+
+.card .a {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -37,12 +53,14 @@ p {
   bottom: 1rem;
   padding: 1rem;
 }
-.link {
+
+.card .link {
   background-color: orange;
   color: black;
   border-radius: 10px;
   padding: 1rem;
 }
-.link:hover {
+
+.card .link:hover {
   color: red;
 }
