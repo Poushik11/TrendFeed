@@ -1,3 +1,14 @@
+#TrendFeed: 
+TrendFeed is a dynamic news platform built using React and Context API, leveraging the NewsAPI for real-time updates. Users can browse and categorize news articles across various topics, as well as switch between multiple languages for a personalized reading experience. TrendFeed ensures a seamless and responsive interface, providing the latest news tailored to user preferences.
+
+# Preview Images:
+![1](https://github.com/Poushik11/TrendFeed/assets/115363626/c830fd89-c28c-44a8-b226-e028e061d7ed)
+
+
+![2](https://github.com/Poushik11/TrendFeed/assets/115363626/a7134ad3-0e63-4e36-8133-fef0a0f1328b)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
