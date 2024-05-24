@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="footer dark">
       <div className="container">
         <span className="text">
-          &copy; 2023{" "}
+          &copy; 2024{" "}
           <a href="https://poushiksweb.netlify.app/" className="link">
             PSY™
           </a>
