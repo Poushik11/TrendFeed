@@ -1,4 +1,4 @@
-#TrendFeed: 
+TrendFeed: 
 TrendFeed is a dynamic news platform built using React and Context API, leveraging the NewsAPI for real-time updates. Users can browse and categorize news articles across various topics, as well as switch between multiple languages for a personalized reading experience. TrendFeed ensures a seamless and responsive interface, providing the latest news tailored to user preferences.
 
 # Preview Images:
