@@ -4,10 +4,16 @@ TrendFeed is a dynamic news platform built using React and Context API, leveragi
 # Preview Images:
 1.Home page with a spinner and loader
 ![1](https://github.com/Poushik11/TrendFeed/assets/115363626/c830fd89-c28c-44a8-b226-e028e061d7ed)
+
+
 2.Searcg section
 ![2](https://github.com/Poushik11/TrendFeed/assets/115363626/a7134ad3-0e63-4e36-8133-fef0a0f1328b)
+
+
 3.News on topic
 ![image](https://github.com/Poushik11/TrendFeed/assets/115363626/6d3cc8da-b8f7-4894-8dfc-1416410704d0)
+
+
 4.Categories wise search and language wise news
 ![image](https://github.com/Poushik11/TrendFeed/assets/115363626/61ca1a67-8306-4cc0-917e-4e6c2831ab76)
 
